@@ -1,6 +1,6 @@
 # 🚩 **My CTF's** 🕵️‍♂️
 
-Welcome to **My CTF's** — a personal collection of **Capture The Flag (CTF)** challenges, write-ups, tools, and resources designed to level up your cybersecurity skills and problem-solving prowess!
+Welcome to **My CTF's** — a personal Created **Capture The Flag (CTF)** challenges designed to level up your cybersecurity skills and problem-solving prowess!
 
 ---
 

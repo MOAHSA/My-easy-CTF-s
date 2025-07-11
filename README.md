@@ -57,7 +57,6 @@ Got questions or ideas? Feel free to reach out!
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat" alt="MIT License" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat" alt="Active" />
 </div>

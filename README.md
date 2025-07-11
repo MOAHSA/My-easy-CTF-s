@@ -36,7 +36,7 @@ Explore challenges across multiple areas:
 
 ## 🚀 **Getting Started**
 
-1. Browse challenges category*
+1. Browse challenges 
 2. Attempt challenges on your own — then check write-ups  
 3. Use or adapt provided scripts for practice  
 4. Share your feedback or new challenges!  

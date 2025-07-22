@@ -63,4 +63,10 @@ Got questions or ideas? Feel free to reach out!
 
 ---
 
+<a href="https://youtube.com/@iam2mas?si=SxSRctMQcp-68jHF" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=flat" alt="YouTube Subscribe" />
+</a>
+
+---
+
 Happy hacking! 🕵️‍♂️🔐
